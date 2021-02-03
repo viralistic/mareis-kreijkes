@@ -4,6 +4,7 @@ backend:
     - "admin"
     - "editor"
 media_folder: "static/images"
+public_folder: "uploads"
 collections:
   - name: "pages"
     label: "Pages"
